@@ -2,6 +2,4 @@ print("hello")
 print("hello world")
 print("ryan gomez")
 print("ryan gomez")
-print("hello lingesh")
-print("post the tasks in this repository")
-print("created new branch - BranchRyan")
+
