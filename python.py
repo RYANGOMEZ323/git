@@ -8,5 +8,3 @@ print("Hi Guys, I also joined in this project with you!")
 print("hello")
 print("ryan")
 print("lingeshwar")
-
-print("after all confusions, final commit")
